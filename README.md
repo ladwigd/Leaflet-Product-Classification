@@ -2,6 +2,7 @@
 This git repository contains the code to the paper "Fine-Grained Product Classification on Leaflet Advertisements".
 
 ## Abstract
+![Visual Abstract Product Leaflet Classification](/reports/visual_abstract.png)
 
 ## Data
 The Dataset can be found here: [Products Leaflets Dataset](https://zenodo.org/record/7869954#.ZFTN8M7P3tV)
