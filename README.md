@@ -11,7 +11,7 @@ The figure depicts an example of the promotions of the same product in the leafl
 The Dataset can be found here: [Products Leaflets Dataset](https://zenodo.org/record/7869954#.ZFTN8M7P3tV)
 
 ## Paper
-The Paper is available here: TBD
+The Paper is available here: [Fine-Grained Product Classification on Leaflet Advertisements](https://arxiv.org/abs/2305.03706)
 
 ## Code
 The code is written in Python, the models are build with Pytorch.
