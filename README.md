@@ -11,9 +11,22 @@ The figure depicts an example of the promotions of the same product in the leafl
 The Dataset can be found here: [Products Leaflets Dataset](https://zenodo.org/record/7869954#.ZFTN8M7P3tV)
 
 ## Paper
-Has bee accepted at the [CVPR 23 Workshop on Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc10)
+Accepted at the [CVPR 23 Workshop on Fine-Grained Visual Categorization](https://sites.google.com/view/fgvc10)
 
 Preprint is available here: [Fine-Grained Product Classification on Leaflet Advertisements](https://arxiv.org/abs/2305.03706)
+
+cite:
+```
+@misc{ladwig2023finegrained,
+      title={Fine-Grained Product Classification on Leaflet Advertisements}, 
+      author={Daniel Ladwig and Bianca Lamm and Janis Keuper},
+      year={2023},
+      eprint={2305.03706},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
+```
 
 ## Code
 The code is written in Python, the models are build with Pytorch.
